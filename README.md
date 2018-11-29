@@ -1,4 +1,4 @@
-# PF_Electronica_AndreaFontalvo
+# Teleoperacion por comandos de voz - Robot Hexapodo
 
 **Sistema de teleoperación por comandos de voz de un robot hexápodo para el mapeo de su entorno.**
 
