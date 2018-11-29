@@ -1,4 +1,4 @@
-# Teleoperacion por comandos de voz - Robot Hexapodo
+# Teleoperación por comandos de voz - Robot Hexapodo
 
 **Sistema de teleoperación por comandos de voz de un robot hexápodo para el mapeo de su entorno.**
 
